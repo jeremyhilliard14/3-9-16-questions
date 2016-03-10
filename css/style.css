@@ -1,0 +1,28 @@
+#question-wrapper{
+	width: 600px;
+	min-height: 500px;
+	margin: auto;
+	text-align: center;
+	background-color: #cdcbd6;
+	border-radius: 15px;
+	position: relative;
+}
+
+#question-text{
+	padding: 20% 10% 0;
+	font-size: 30px;
+}
+#ask{
+	width: 20%;
+	margin:  20px auto;
+}
+button{
+	background-color: #cd336a;
+	padding: 30px;
+	color: white;
+	border-radius: 5px;
+	font-size: 30px;
+	position: absolute;
+	top: 37%;
+	left: 25%;
+}

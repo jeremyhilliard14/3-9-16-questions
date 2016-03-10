@@ -1,0 +1,8 @@
+#question-wrapper{
+	width: 600px;
+	min-height: 500px;
+	margin: auto;
+	text-align: center;
+	background-color: #cdcbd6;
+	border-radius: 15px;
+}

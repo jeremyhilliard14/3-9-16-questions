@@ -1,0 +1,10 @@
+questionArray.push(new ClassQuizItem("What does HTML mean", "Hyper Text Markup Language", 1));
+questionArray.push(new ClassQuizItem("What does CSS mean", "Cascading Style Sheets", 1));
+questionArray.push(new ClassQuizItem("An element that is positioned absolutely must be inside an element with a position of what", "Relative", 4));
+questionArray.push(new ClassQuizItem("What does box-sizing: border-box do", "It keeps the over-all dimensions of the box the same when adding padding.  It pushes the content in rather than out.", 3));
+questionArray.push(new ClassQuizItem("What does it mean to make a site responsive", "It provides optimal viewing on multiple devices", 3));
+questionArray.push(new ClassQuizItem("What is targeted with a # in css", "An id.", 1));
+questionArray.push(new ClassQuizItem("What is targeted with a '.' in css", "A class.", 1));
+questionArray.push(new ClassQuizItem("What is in the center of the box model", "Content.", 2));
+questionArray.push(new ClassQuizItem("What is needed at the top of an HTML document", "<!DOCTYPE html>", 2));
+questionArray.push(new ClassQuizItem("How do you display an alert with a string in javascript", "alert('String')", 1));
